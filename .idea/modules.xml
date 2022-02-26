@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/codewars.java.Array Diff/codewars.java.Array Diff.iml" filepath="$PROJECT_DIR$/codewars.java.Array Diff/codewars.java.Array Diff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Counting Duplicates/codewars.java.Counting Duplicates.iml" filepath="$PROJECT_DIR$/java/Counting Duplicates/codewars.java.Counting Duplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Vowel Count/codewars.java.Vowel Count.iml" filepath="$PROJECT_DIR$/java/Vowel Count/codewars.java.Vowel Count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/js/codewars.js.iml" filepath="$PROJECT_DIR$/js/codewars.js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin/Common Denominators/codewars.kotlin.Common Denominators.iml" filepath="$PROJECT_DIR$/kotlin/Common Denominators/codewars.kotlin.Common Denominators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin/Counting Duplicates/codewars.kotlin.Counting Duplicates.iml" filepath="$PROJECT_DIR$/kotlin/Counting Duplicates/codewars.kotlin.Counting Duplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin/Growth of a Population/codewars.kotlin.Growth of a Population.iml" filepath="$PROJECT_DIR$/kotlin/Growth of a Population/codewars.kotlin.Growth of a Population.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin/Meeting/codewars.kotlin.Meeting.iml" filepath="$PROJECT_DIR$/kotlin/Meeting/codewars.kotlin.Meeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin/Statistics for an Athletic Association/codewars.kotlin.Statistics for an Athletic Association.iml" filepath="$PROJECT_DIR$/kotlin/Statistics for an Athletic Association/codewars.kotlin.Statistics for an Athletic Association.iml" />
+    </modules>
+  </component>
+</project>
